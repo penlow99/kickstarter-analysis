@@ -13,12 +13,14 @@ This project was designed to help Louise make informed decisions about Kickstart
 ### Analysis of Outcomes Based on Launch Date
 This section of the project was used to analyze the relationship between the date theater campaingns were launched and the outcome of those campaingns. 
 The following chart visualizes this relationship.
+![Outcomes Based on Launch Date](./Resources/Theater_Outcomes_vs_Launch.png)
 
 ---
 
 ### Analysis of Outcomes Based on Goals
 This section of the project was used to analyze the relationship between the outcomes of the campaigns for plays and the monetary goals those campaigns hoped to acheive.
 The following chart visualizes this relationship.
+![Outcomes Based Goals](./Resources/Outcomes_vs_Goals.png)
 
 ---
 
