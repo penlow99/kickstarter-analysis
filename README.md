@@ -39,7 +39,9 @@ I had to manually rearrange the "Goals" order in the second chart to properly di
 - What are some limitations of this dataset?
 
 This data cannot account for demographics, such as popularity of the subject matter or age of the backers.
+
 ---
 - What are some other possible tables and/or graphs that we could create?
 
 Tables that show the correlation between length of campaigns and the outcomes of those campaigns, possibly using yearly quarters to help narrow down a better campaign window for Louise.
+
