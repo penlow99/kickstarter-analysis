@@ -3,7 +3,9 @@
 ## Overview of Project
 
 ### Purpose
+
 This project was designed to help Louise make informed decisions about Kickstarter campains in regard to theater productions.
+
 ---
 
 ## Analysis and Challenges
